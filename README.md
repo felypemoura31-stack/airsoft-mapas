@@ -6,7 +6,7 @@ Mapas em PDF com GPS, offline, para jogos de airsoft.
 
 ### Como instalar
 
-1. No celular Android, toque no botão laranja. O download do app começa.
+1. No celular Android, toque em **Baixar o app**. O download do app começa.
 2. Abra o arquivo baixado e toque em **Instalar**.
 3. Se o celular pedir, permita instalar apps vindos do navegador.
 
