@@ -1,7 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="440" height="96" viewBox="0 0 440 96" role="img" aria-label="Baixar o app Airsoft Battlefield para Android">
-<rect width="440" height="96" rx="18" fill="#FF5A1F"/>
-<circle cx="56" cy="48" r="30" fill="#18211B"/>
-<path d="M56 30v26M45 46l11 11 11-11M43 64h26" fill="none" stroke="#FF5A1F" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="104" y="46" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#18211B">Baixar o app</text>
-<text x="104" y="72" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="17" fill="#18211B">Airsoft Battlefield para Android</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="104" viewBox="0 0 440 104" role="img" aria-label="Baixar o app Airsoft Battlefield para Android">
+<rect x="2" y="2" width="436" height="100" rx="16" fill="#2C3424" stroke="#445036" stroke-width="4"/>
+<rect x="10" y="10" width="420" height="84" rx="10" fill="none" stroke="#B3A27C" stroke-width="2" stroke-dasharray="7 4"/>
+<circle cx="62" cy="52" r="28" fill="#FF5A1F"/>
+<path d="M62 36v24M52 51l10 10 10-10M50 68h24" fill="none" stroke="#20261A" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="108" y="50" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="28" font-weight="700" fill="#ECE6D2">Baixar o app</text>
+<text x="108" y="76" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="17" fill="#B3A27C">Airsoft Battlefield para Android</text>
 </svg>
